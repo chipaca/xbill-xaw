@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=XBill
+Comment=Get rid of those Wingdows Viruses!
+Comment[de]=Werden Sie diese Wingdows-Viren los!
+Comment[it]=Fai piazza pulita dai virus Wingdows!
+Comment[es]=Elimina esos Viruses del Wingdows!
+Icon=${SNAP}/meta/gui/icon.png
+Exec=xbill-xaw
+Terminal=false
+Categories=Game;ArcadeGame;
+Keywords=Game;Bill;Viruses
+StartupWMClass=XBill
